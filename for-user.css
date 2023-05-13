@@ -1,0 +1,16 @@
+/*
+Theme Name: Hot Pink
+Author: Ratchata
+Description: Super Pink
+Version: 0.1
+*/
+
+
+@import url('https://github.com/RatchataX/discord-theme/blob/main/Main-theme/main-theme.css');
+/* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
+
+
+/* CUSTOMIZE COLORS IN HERE! */
+:root {
+  --text-link: red;
+}
